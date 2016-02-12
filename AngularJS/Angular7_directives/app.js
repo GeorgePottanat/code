@@ -7,7 +7,7 @@ myApp.config(function ($routeProvider){
 
 	 	templateUrl: 'pages/main.html',
 	 	controller: 'mainController'
-
+ 
 	 })
 
 	 .when('/second/:num',{
